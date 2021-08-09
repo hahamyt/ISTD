@@ -1,2 +1,1 @@
-# ISTD
-Infrared Small Target Detection
+## ISTD: Infrared Small Target Detection
