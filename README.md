@@ -1,6 +1,6 @@
 ## ISTD: Infrared Small Target Detection
 
-Code for the paper entitled "Robust and Fast Infrared Small Target Detection based on Pareto Frontier Optimization".
+Code for the paper entitled "Robust and fast infrared small target detection based on pareto frontier optimization".
 
 ### Data illustration
 Some representative test data is illustrated as:
